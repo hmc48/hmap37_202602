@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "geo_37_4",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "ママ＆チャイルドボディケア　三好助産師相談室【4:助産院】香川県東かがわ市引田３０３－６", "url": "https://www.iryou.teikyouseido.mhlw.go.jp/znk-web/juminkanja/S2430/initialize?prefCd=37&kikanCd=K370100010&kikanKbn=4", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 134.407414, 34.216925 ] } },
+{ "type": "Feature", "properties": { "内容": "はる助産院【4:助産院】香川県さぬき市寒川町神前１６１１－２", "url": "https://www.iryou.teikyouseido.mhlw.go.jp/znk-web/juminkanja/S2430/initialize?prefCd=37&kikanCd=K370100030&kikanKbn=4", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 134.208167, 34.283649 ] } },
+{ "type": "Feature", "properties": { "内容": "しのはら母乳・育児相談室【4:助産院】香川県三豊市豊中町本山甲６６７－３", "url": "https://www.iryou.teikyouseido.mhlw.go.jp/znk-web/juminkanja/S2430/initialize?prefCd=37&kikanCd=K370400010&kikanKbn=4", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 133.689937, 34.148022 ] } },
+{ "type": "Feature", "properties": { "内容": "松木母乳育児相談室【4:助産院】香川県高松市岡本町１５５７－３５", "url": "https://www.iryou.teikyouseido.mhlw.go.jp/znk-web/juminkanja/S2430/initialize?prefCd=37&kikanCd=K370500070&kikanKbn=4", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 133.98814, 34.291604 ] } },
+{ "type": "Feature", "properties": { "内容": "特定非営利活動法人いのちの応援舎　ぼっこ助産院【4:助産院】香川県高松市春日町１１７６番地", "url": "https://www.iryou.teikyouseido.mhlw.go.jp/znk-web/juminkanja/S2430/initialize?prefCd=37&kikanCd=K370500090&kikanKbn=4", "url2": "https://hinata-bokko.jp/" }, "geometry": { "type": "Point", "coordinates": [ 134.09724, 34.332296 ] } }
+]
+}
